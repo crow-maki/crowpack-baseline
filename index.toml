@@ -344,6 +344,11 @@ hash = "abf68c7b90b93d7223c6ed856e7a4ae89ebdccf7780277e4de6aa3d707f7e27f"
 metafile = true
 
 [[files]]
+file = "mods/doespotatotick.pw.toml"
+hash = "5329217ddb05e2782bc0a5e1b2b19b02ea761967e3e4681e441ebf825aa41212"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "ac9e325de2ca1030bdf19789f676285ae573feb839ecb518cc7bc9f0b82d68e2"
 metafile = true
