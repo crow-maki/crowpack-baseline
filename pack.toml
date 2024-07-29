@@ -1,0 +1,13 @@
+name = "Crowpack Baseline"
+author = "crow-maki"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "46b9f9e9ee1c099e586550eaf47a0ee790be97ab0a0c8c895cc8b3bcedcb9692"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
