@@ -1169,6 +1169,11 @@ hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ctov-croptopia-compat.pw.toml"
+hash = "1fb94c5c45790145226562316c5cfddf807a1ad78f32ceeeaaf19c487658a901"
+metafile = true
+
+[[files]]
 file = "resourcepacks/sky-villages-farmers-delight-compat.pw.toml"
 hash = "e4f0b00ce0842ca2a1c5dadeb059f6ec077d457e175f779a6936c81cb89b7cc0"
 metafile = true
