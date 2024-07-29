@@ -1024,6 +1024,11 @@ hash = "1e6efbcc9bc0653d549548285eadab162435855b484fd4846adc2c38fade5aba"
 metafile = true
 
 [[files]]
+file = "mods/tarot-cards.pw.toml"
+hash = "145c08ba79d430279d6a73a4b10254f221ef21e05fca07857a684d7bb0360fb7"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "a943b190ae8648304ae8f33c139ee59a0f90f2f30c997e4fcb4f246aed4f9a0a"
 metafile = true
@@ -1176,4 +1181,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/sky-villages-waystones-compat.pw.toml"
 hash = "54926190f54630e6c392b3c83eed46c343782e8e10556b2372db0bcfe4acc31c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tarot-cards-colorized.pw.toml"
+hash = "af086e980e2622c9c1805eb311797b220e3bf4af1262f95de109102687d9c551"
 metafile = true
